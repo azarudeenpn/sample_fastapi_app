@@ -2,7 +2,7 @@
 
 ### To run the app
 
-- `pip install requirements.txt`
+- `pip install -r requirements.txt`
 - Initialize database.
     - change current working directory to root directory of the application.
     - `python scripts/init_db.py`, after that you will find **address_db.db** in your root directory.
